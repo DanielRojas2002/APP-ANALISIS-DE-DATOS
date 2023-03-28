@@ -155,8 +155,37 @@ FILTRAR CSV
 
 ----------------------------------------------------------------------------------------------------------
 
+"GRAFICA DE BARRAS"
+
+![image](https://user-images.githubusercontent.com/60913160/228123752-3e286b90-fbd9-46e5-b6f6-67c47311af89.png)
 
 
+"RESULTADO"
+
+![image](https://user-images.githubusercontent.com/60913160/228123802-82e69b16-8135-4503-ba06-fe3df71e67dd.png)
+
+
+----------------------------------------------------------------------------------------------------------
+
+
+"CONFIGURACION
+
+  "COLOR VENTANAS"
+  
+  ![image](https://user-images.githubusercontent.com/60913160/228123877-67cd1659-40d0-4360-ad48-1afae68d0a57.png)
+
+
+  "COLOR BOTONES"
+  
+  ![image](https://user-images.githubusercontent.com/60913160/228123939-37a57aac-1367-40fc-8d94-4689be05e5e1.png)
+
+
+  "FUENTE DE LETRA"
+  
+  ![image](https://user-images.githubusercontent.com/60913160/228124007-2a62772b-f8c5-4566-a32b-68b1cacb3fe8.png)
+
+
+----------------------------------------------------------------------------------------------------------
 
 
 
