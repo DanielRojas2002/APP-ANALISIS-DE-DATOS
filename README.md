@@ -92,6 +92,73 @@ FILTRAR CSV
 
 ![image](https://user-images.githubusercontent.com/60913160/228122699-f50f1042-b6d2-48ef-ba5a-ec688f160c3c.png)
 
+"TODOS"
+
+![image](https://user-images.githubusercontent.com/60913160/228122891-1c5f4d3e-8903-4425-baca-0a7536147829.png)
+
+"ESPECIFICO"
+
+![image](https://user-images.githubusercontent.com/60913160/228123011-edf38c2d-3d00-40ce-8bc3-3ed053e891b7.png)
+
+
+"BUSQUEDA NUMERICA INDIVIDUAL"
+
+![image](https://user-images.githubusercontent.com/60913160/228123085-0b61071c-d617-4309-9f9a-2dfbeb657604.png)
+
+
+"BUSQUEDA ALFANUMERICA INDIVIDUAL"
+
+![image](https://user-images.githubusercontent.com/60913160/228123146-4c20fb7c-9f2e-4b18-9499-f1b94b9b3ea3.png)
+
+
+"BUSQUEDA RANGOS NUMERICOS O ALFANUMERICOS"
+
+![image](https://user-images.githubusercontent.com/60913160/228123235-91188896-a405-448f-a5b7-c4a89ea93530.png)
+
+
+"BUSQUEDA RANGO NUMERICOS"
+
+![image](https://user-images.githubusercontent.com/60913160/228123325-2c8169a1-65d2-4a37-8f5f-f376c96db8aa.png)
+
+
+"BUSQUEDA RANGO ALFANUMERICOS"
+
+![image](https://user-images.githubusercontent.com/60913160/228123390-cc034759-77f3-4209-8bc7-366fdd9b77cc.png)
+
+
+"ERROR NO ENCONTRADO"
+
+![image](https://user-images.githubusercontent.com/60913160/228123451-26321f2b-18e4-4253-a584-36804805c755.png)
+
+
+"GUARDADO DEL FILTRADO"
+
+![image](https://user-images.githubusercontent.com/60913160/228123508-1ae27285-e7ac-44f2-9b81-b029f57995da.png)
+
+
+![image](https://user-images.githubusercontent.com/60913160/228123528-54be121a-d53a-4371-970f-78734ed3be1c.png)
+
+
+
+----------------------------------------------------------------------------------------------------------
+
+
+"GRAFICA DE PASTEL"
+
+![image](https://user-images.githubusercontent.com/60913160/228123601-b45e8f35-f5cd-4fb4-a90d-91190928153e.png)
+
+
+"RESULTADO"
+
+![image](https://user-images.githubusercontent.com/60913160/228123646-bf3d687b-2ae6-47c0-a960-cc99ae3fd7cd.png)
+
+
+----------------------------------------------------------------------------------------------------------
+
+
+
+
+
 
 
 
